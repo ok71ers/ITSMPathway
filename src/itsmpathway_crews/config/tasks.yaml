@@ -1,0 +1,59 @@
+research_itsm_trends_task:
+  description: >
+    Conduct comprehensive research on {blog_topic} and {key_focus_areas}. 
+    Identify potential blog topics that will provide valuable insights to {target_audience}.
+  expected_output: >
+    A detailed research report about {blog_topic} including:
+    - 3-5 potential blog topic ideas relevant to {target_audience}
+    - Key trends and insights in {key_focus_areas}
+    - Relevant statistics and recent developments
+    - Potential sources and reference materials
+
+develop_blog_outline_task:
+  description: >
+    Create a detailed, structured outline for {blog_topic}. 
+    The outline should provide a clear narrative flow, include key discussion points about {key_focus_areas}, 
+    and ensure comprehensive coverage that resonates with {target_audience}.
+  expected_output: >
+    A comprehensive blog post outline that includes:
+    - Compelling headline for {blog_topic}
+    - Introduction with hook and context for {target_audience}
+    - 3-5 main sections about {key_focus_areas}
+    - Practical takeaways or actionable insights
+    - Potential quotes or expert references
+
+write_blog_content_task:
+  description: >
+    Transform the blog outline into a full, detailed post about {blog_topic}. Focus on creating clear, 
+    authoritative, and engaging content about {key_focus_areas} that provides real value to {target_audience}.
+  expected_output: >
+    A complete blog post draft that:
+    - Follows the approved outline
+    - Uses clear, professional language appropriate for {target_audience}
+    - Includes relevant examples and use cases from {key_focus_areas}
+    - Provides actionable advice
+    - Maintains a consistent tone and style
+
+optimize_blog_seo_task:
+  description: >
+    Review and optimize the blog post about {blog_topic} for search engine performance and reader engagement. 
+    Enhance readability, incorporate relevant keywords from {key_focus_areas}, and ensure the content resonates with {target_audience}.
+  expected_output: >
+    A fully optimized blog post that includes:
+    - SEO-friendly title and meta description targeting {target_audience}
+    - Strategic keyword integration based on {key_focus_areas}
+    - Improved readability (headers, bullet points, short paragraphs)
+    - Internal and external link suggestions
+    - Recommended image or graphic placements
+
+final_review_and_edit_task:
+  description: >
+    Conduct a thorough review of the blog post about {blog_topic}, focusing on technical accuracy of {key_focus_areas}, clarity, coherence, 
+    and overall value to {target_audience}.
+  expected_output: >
+    A polished, publication-ready blog post that:
+    - Is technically accurate regarding {key_focus_areas}
+    - Flows logically and coherently
+    - Is free of grammatical and technical errors
+    - Provides clear value to {target_audience}
+    - Is ready for publication
